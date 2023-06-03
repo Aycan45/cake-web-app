@@ -11,5 +11,11 @@ namespace CakesProjectForMom.Controllers
 
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
     }
 }
