@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\CakesProjectForMom.csproj": {}
+    "C:\\Users\\Iwan's PC\\Documents\\GitHub\\cake-web-app\\CakesProjectForMom\\CakesProjectForMom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\CakesProjectForMom.csproj": {
+    "C:\\Users\\Iwan's PC\\Documents\\GitHub\\cake-web-app\\CakesProjectForMom\\CakesProjectForMom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\CakesProjectForMom.csproj",
+        "projectUniqueName": "C:\\Users\\Iwan's PC\\Documents\\GitHub\\cake-web-app\\CakesProjectForMom\\CakesProjectForMom.csproj",
         "projectName": "CakesProjectForMom",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\CakesProjectForMom.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\obj\\",
+        "projectPath": "C:\\Users\\Iwan's PC\\Documents\\GitHub\\cake-web-app\\CakesProjectForMom\\CakesProjectForMom.csproj",
+        "packagesPath": "C:\\Users\\Iwan's PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Iwan's PC\\Documents\\GitHub\\cake-web-app\\CakesProjectForMom\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Iwan's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
