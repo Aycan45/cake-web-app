@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AKyA7LZBSKezYsgAZpLch3LT36tsXJym/2aA99ee9Kc=",
+  "Hash": "mxOOiR7dbz3Do4n1KgWElz+hrHHDm34qc4+1gCx0WlE=",
   "Source": "CakesProjectForMom",
   "BasePath": "_content/CakesProjectForMom",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CakesProjectForMom.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\wwwroot\\cake.png",
+      "SourceId": "CakesProjectForMom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\wwwroot\\",
+      "BasePath": "_content/CakesProjectForMom",
+      "RelativePath": "cake.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cake.png"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\CakesProjectForMom\\CakesProjectForMom\\wwwroot\\css\\site.css",
